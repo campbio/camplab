@@ -19,6 +19,9 @@ All following meetings take place at the big conference room (E605).
 - `/restricted/projectnb/camplab/home`. Lab members' own workspaces.
 - `/restricted/projectnb/camplab/projects/celda/Datasets/10X`. Publicly available 10X datasets.
 
+## Development tips
+- [Coding Style Guide](https://github.com/campbio/celda/wiki/Celda-Development-Coding-Style-Guide)
+
 ## Useful links:
 ### Tutoriols:
 - Analysis of single cell RNA-seq data: https://scrnaseq-course.cog.sanger.ac.uk/website/index.html
