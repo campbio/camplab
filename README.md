@@ -23,6 +23,7 @@ All following meetings take place at the big conference room (E605).
 - [Coding Style Guide](https://github.com/campbio/celda/wiki/Celda-Development-Coding-Style-Guide)
 - [Robust and Efficient Code](https://github.com/campbio/celda/wiki/Celda-Development-Robust-and-Efficient-Code)
 - [Rstudio configuration](https://github.com/campbio/celda/wiki/Celda-Development-Rstudio-configuration)
+- [FAQ on package development](https://github.com/campbio/celda/wiki/FAQ-on-package-development)
 
 ## Useful links:
 ### Tutoriols:
