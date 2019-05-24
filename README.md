@@ -34,3 +34,8 @@ All following meetings take place at the big conference room (E605).
 - [Potter SS. Single-cell RNA sequencing for the study of development, physiology and disease. Nat Rev Nephrol. 2018;14(8):479-92.](https://www.nature.com/articles/s41581-018-0021-7)
 - [Svensson V, Vento-Tormo R, Teichmann SA. Exponential scaling of single-cell RNA-seq in the past decade. Nat Protoc. 2018;13(4):599-604.](https://www.nature.com/articles/nprot.2017.149)
 - [Tanay A, Regev A. Scaling single-cell genomics from phenomenology to mechanism. Nature. 2017;541(7637):331-8.](https://www.nature.com/articles/nature21350)
+
+## Set up network printer
+Instructions: https://www.bumc.bu.edu/it/support/printers/install/
+
+The BU tag number for the printer (Ricoh Aficio MP C4502A) is: **920622**.
