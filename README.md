@@ -39,3 +39,8 @@ All following meetings take place at the big conference room (E605).
 Instructions: https://www.bumc.bu.edu/it/support/printers/install/
 
 The BU tag number for the printer (Ricoh Aficio MP C4502A) is: **920622**.
+
+## Get an account on the SCC
+Ask Josh to add you to the `camplab` project.
+
+More information: http://www.bu.edu/tech/support/research/system-usage/scc-quickstart/#ACCOUNT
