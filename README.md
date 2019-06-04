@@ -37,7 +37,8 @@ All following meetings take place at the big conference room (E605).
 
 ## Research Computing Services Tutorials
 The Research Computing Services (RCS) group, part of Boston University Information Services & Technology, offers a series of tutorials on **programming**, **high performance computing**, and **scientific visualization**. These tutorials are free and open to all members of the Boston University community.
-https://www.bu.edu/tech/about/training/classroom/rcs-tutorials/
+- [Tutorials Schedule](https://www.bu.edu/tech/about/training/classroom/rcs-tutorials/)
+- [Tutorial Slide Sets](http://www.bu.edu/tech/support/research/training-consulting/live-tutorials/)
 
 ## Set up network printer
 Instructions: https://www.bumc.bu.edu/it/support/printers/install/
