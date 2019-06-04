@@ -41,6 +41,10 @@ The Research Computing Services (RCS) group, part of Boston University Informati
 - [Tutorials Schedule](https://www.bu.edu/tech/about/training/classroom/rcs-tutorials/)
 - [Tutorial Slide Sets](http://www.bu.edu/tech/support/research/training-consulting/live-tutorials/)
 
+### Marker gene list
+Google sheet containing information about marker genes and their corresponding cell types:
+https://docs.google.com/spreadsheets/d/1XZ1oAI74ZhCj7gEGgvZUB_ybHF9iFkJGXam6dPTh1gs
+
 ## Set up network printer
 Instructions: https://www.bumc.bu.edu/it/support/printers/install/
 
