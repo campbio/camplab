@@ -16,7 +16,7 @@ All following meetings take place at the big conference room (E605).
 
 ## SCC4 directories
 - `/restricted/projectnb/camplab`. Camplab root directory.
-- `/restricted/projectnb/camplab/home`. Lab members' own workspaces.
+- `/restricted/projectnb/camplab/home`. Lab members' own workspaces. Create a folder here and put your stuff in it.
 - `/restricted/projectnb/camplab/projects/celda/Datasets/10X`. Publicly available 10X datasets.
 
 ## Package development tips
