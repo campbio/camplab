@@ -36,7 +36,7 @@ All following meetings take place at the big conference room (E605).
 - [Tanay A, Regev A. Scaling single-cell genomics from phenomenology to mechanism. Nature. 2017;541(7637):331-8.](https://www.nature.com/articles/nature21350)
 
 ## Research Computing Services Tutorials
-The Research Computing Services (RCS) group, part of Boston University Information Services & Technology, offers a series of tutorials on ##rogramming##, ##high performance computing##, and ##scientific visualization##. These tutorials are free and open to all members of the Boston University community.
+The Research Computing Services (RCS) group, part of Boston University Information Services & Technology, offers a series of tutorials on **rogramming**, **high performance computing**, and **scientific visualization**. These tutorials are free and open to all members of the Boston University community.
 https://www.bu.edu/tech/about/training/classroom/rcs-tutorials/
 
 ## Set up network printer
