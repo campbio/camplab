@@ -26,7 +26,7 @@ All following meetings take place at the big conference room (E605).
 - [FAQ on package development](https://github.com/campbio/celda/wiki/FAQ-on-package-development)
 
 ## Useful links:
-### Tutoriols:
+### Single Cell Data Analysis Tutoriols:
 - Analysis of single cell RNA-seq data: https://scrnaseq-course.cog.sanger.ac.uk/website/index.html
 - Orchestrating Single-Cell Analysis with Bioconductor: https://osca.bioconductor.org/
 ### Reviews:
@@ -35,7 +35,7 @@ All following meetings take place at the big conference room (E605).
 - [Svensson V, Vento-Tormo R, Teichmann SA. Exponential scaling of single-cell RNA-seq in the past decade. Nat Protoc. 2018;13(4):599-604.](https://www.nature.com/articles/nprot.2017.149)
 - [Tanay A, Regev A. Scaling single-cell genomics from phenomenology to mechanism. Nature. 2017;541(7637):331-8.](https://www.nature.com/articles/nature21350)
 
-## Research Computing Services Tutorials
+### Research Computing Services Tutorials
 The Research Computing Services (RCS) group, part of Boston University Information Services & Technology, offers a series of tutorials on **programming**, **high performance computing**, and **scientific visualization**. These tutorials are free and open to all members of the Boston University community.
 - [Tutorials Schedule](https://www.bu.edu/tech/about/training/classroom/rcs-tutorials/)
 - [Tutorial Slide Sets](http://www.bu.edu/tech/support/research/training-consulting/live-tutorials/)
