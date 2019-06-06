@@ -46,6 +46,10 @@ The Research Computing Services (RCS) group, part of Boston University Informati
 Google sheet containing information about marker genes and their corresponding cell types:
 https://docs.google.com/spreadsheets/d/1XZ1oAI74ZhCj7gEGgvZUB_ybHF9iFkJGXam6dPTh1gs
 
+### Vim
+[Interactive Vim tutorial](https://openvim.com/)
+[Vim cheetsheet (by Allison McKnight)](https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf)
+
 ## Set up network printer
 Instructions: https://www.bumc.bu.edu/it/support/printers/install/
 
