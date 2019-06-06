@@ -50,6 +50,10 @@ https://docs.google.com/spreadsheets/d/1XZ1oAI74ZhCj7gEGgvZUB_ybHF9iFkJGXam6dPTh
 - [Interactive Vim tutorial](https://openvim.com/)
 - [Vim cheetsheet (by Allison McKnight)](https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf)
 
+### Git
+- [Git cheetsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
+- [Git mergetool tutorial](https://gist.github.com/karenyyng/f19ff75c60f18b4b8149)
+
 ## Set up network printer
 Instructions: https://www.bumc.bu.edu/it/support/printers/install/
 
