@@ -31,6 +31,8 @@ All following meetings take place at the big conference room (E605).
 - Git
   - [Git cheetsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
   - [Git mergetool tutorial](https://gist.github.com/karenyyng/f19ff75c60f18b4b8149)
+- GitHub
+  - [Hello World](https://guides.github.com/activities/hello-world/)
 - [Object documentation](http://r-pkgs.had.co.nz/man.html)
 
 ## Useful links:
