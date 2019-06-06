@@ -19,7 +19,7 @@ All following meetings take place at the big conference room (E605).
 - `/restricted/projectnb/camplab/home`. Lab members' own workspaces. Create a folder here and put your stuff in it.
 - `/restricted/projectnb/camplab/projects/celda/Datasets/10X`. Publicly available 10X datasets.
 
-## Package development tips
+## R Package development tips
 - [R Packages (Hadley Wickham)](http://r-pkgs.had.co.nz/)
 - [Coding Style Guide](https://github.com/campbio/celda/wiki/Celda-Development-Coding-Style-Guide)
 - [Robust and Efficient Code](https://github.com/campbio/celda/wiki/Celda-Development-Robust-and-Efficient-Code)
