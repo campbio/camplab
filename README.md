@@ -25,6 +25,13 @@ All following meetings take place at the big conference room (E605).
 - [Robust and Efficient Code](https://github.com/campbio/celda/wiki/Celda-Development-Robust-and-Efficient-Code)
 - [Rstudio configuration](https://github.com/campbio/celda/wiki/Celda-Development-Rstudio-configuration)
 - [FAQ on package development](https://github.com/campbio/celda/wiki/FAQ-on-package-development)
+- Vim
+  - [Interactive Vim tutorial](https://openvim.com/)
+  - [Vim cheetsheet (by Allison McKnight)](https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf)
+- Git
+  - [Git cheetsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
+  - [Git mergetool tutorial](https://gist.github.com/karenyyng/f19ff75c60f18b4b8149)
+- [Object documentation](http://r-pkgs.had.co.nz/man.html)
 
 ## Useful links:
 ### Single Cell Data Analysis Tutoriols:
@@ -45,14 +52,6 @@ The Research Computing Services (RCS) group, part of Boston University Informati
 ### Marker gene list
 Google sheet containing information about marker genes and their corresponding cell types:
 https://docs.google.com/spreadsheets/d/1XZ1oAI74ZhCj7gEGgvZUB_ybHF9iFkJGXam6dPTh1gs
-
-### Vim
-- [Interactive Vim tutorial](https://openvim.com/)
-- [Vim cheetsheet (by Allison McKnight)](https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf)
-
-### Git
-- [Git cheetsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
-- [Git mergetool tutorial](https://gist.github.com/karenyyng/f19ff75c60f18b4b8149)
 
 ## Set up network printer
 Instructions: https://www.bumc.bu.edu/it/support/printers/install/
