@@ -64,3 +64,8 @@ The BU tag number for the printer (Ricoh Aficio MP C4502A) is: **920622**.
 Ask Josh to add you to the `camplab` project.
 
 More information: http://www.bu.edu/tech/support/research/system-usage/scc-quickstart/#ACCOUNT
+
+## BU ID card access:
+Go to [710 Albany St.](https://goo.gl/maps/1e6iaxfQnMz) for card access to the floor.
+- https://www.bumc.bu.edu/publicsafety/services/id/
+- https://www.bu.edu/terriercard/
