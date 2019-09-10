@@ -12,11 +12,11 @@ All following meetings take place at the big conference room (E605).
 ## Slack workspaces
 - Camplab: https://camp-lab.slack.com
 - Compbiomed: https://compbiomed.slack.com/
-- Single Cell Core:
+- Single Cell Core: http://www.bumc.bu.edu/singlecell/
 
 ## SCC4 directories
 - `/restricted/projectnb/camplab`. Camplab root directory.
-- `/restricted/projectnb/camplab/home`. Lab members' own workspaces. Create a folder here and put your stuff in it.
+- `/restricted/projectnb/camplab/home`. Lab members' own workspaces. Create a folder with the same name as your BU username Put your stuff in it.
 - `/restricted/projectnb/camplab/projects/celda/Datasets/10X`. Publicly available 10X datasets.
 
 ## R Package development tips
