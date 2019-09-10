@@ -12,7 +12,7 @@ All following meetings take place at the big conference room (E605).
 ## Slack workspaces
 - Camplab: https://camp-lab.slack.com
 - Compbiomed: https://compbiomed.slack.com/
-- Single Cell Core: http://www.bumc.bu.edu/singlecell/
+- Single Cell Core: https://bucores.slack.com
 
 ## SCC4 directories
 - `/restricted/projectnb/camplab`. Camplab root directory.
