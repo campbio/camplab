@@ -9,6 +9,10 @@ All following meetings take place at the big conference room (E605).
 | Computational meeting (Spira-Lenburg Lab) | Every Wednesday 1:00 pm - 3:00 pm | Useful for getting an idea about what other students are doing and practising your presentation skills. Talk to Marc if you want to go to this meeting. |
 | Single-cell working group meeting | Once a month | Campus-wide seminar. Check email for exact date and time. |
 
+## Lab meeting
+See link for lab meeting schedule (BU email required):
+https://docs.google.com/spreadsheets/d/1qzpoEEwaj6YNmaUcqKC1CC1_cj0wcP8X6cnwUogQKWQ/edit#gid=0
+
 ## Email lists
 Send an email to Josh be added to these lists
 - Camplab: camplab-list@bu.edu
