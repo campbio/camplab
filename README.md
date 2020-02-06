@@ -4,7 +4,7 @@ All following meetings take place at the big conference room (E605).
 
 | Recurring meetings | Time | Description |
 | --- | --- | --- |
-| Camplab lab meeting | Every Tuesday 2:00 pm - 3:00 pm | Lab meeting |
+| Camplab lab meeting | Every Friday 10:00 am - 11:00 am | Lab meeting |
 | CBM seminar | Usually every other Tuesday 3:00 pm - 4:30 pm | Each time two students/post-docs/staffs will talk about their research. Check your email for exact date and time. |
 | Computational meeting (Spira-Lenburg Lab) | Every Wednesday 1:00 pm - 3:00 pm | Useful for getting an idea about what other students are doing and practising your presentation skills. Talk to Marc if you want to go to this meeting. |
 | Single-cell working group meeting | Once a month | Campus-wide seminar. Check email for exact date and time. |
