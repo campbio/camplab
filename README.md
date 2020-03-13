@@ -27,6 +27,10 @@ Send an email to Josh be added to these lists
 - `/restricted/projectnb/camplab/home`. Lab members' own workspaces. Create a folder with the same name as your BU username and put your stuff in it.
 - `/restricted/projectnb/camplab/projects/celda/Datasets/10X`. Publicly available 10X datasets.
 
+## Running interactive sessions on SCC
+- Computational Biomedicine has its own node where interactive jobs can be run. Put the following line in your `~/.bashrc` file on SCC: ```alias cb1="ssh scc-cb1.scc.bu.edu"```. Then you will be able to type the command `cb1` to start an interactive session.
+- Alternatively, you can request an interactive session on SCC using ```qrsh```
+
 ## R Package development tips
 - [R Packages (Hadley Wickham)](http://r-pkgs.had.co.nz/)
 - [Coding Style Guide](https://github.com/campbio/celda/wiki/Celda-Development-Coding-Style-Guide)
