@@ -48,7 +48,7 @@ Send an email to Josh be added to these lists
 - [Object documentation](http://r-pkgs.had.co.nz/man.html)
 
 ## Useful links:
-### Single Cell Data Analysis Tutoriols:
+### Single Cell Data Analysis Tutorials:
 - Analysis of single cell RNA-seq data: https://scrnaseq-course.cog.sanger.ac.uk/website/index.html
 - Orchestrating Single-Cell Analysis with Bioconductor: https://osca.bioconductor.org/
 ### Reviews:
