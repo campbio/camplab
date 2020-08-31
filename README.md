@@ -58,6 +58,7 @@ Send an email to Josh be added to these lists
 - [Potter SS. Single-cell RNA sequencing for the study of development, physiology and disease. Nat Rev Nephrol. 2018;14(8):479-92.](https://www.nature.com/articles/s41581-018-0021-7)
 - [Svensson V, Vento-Tormo R, Teichmann SA. Exponential scaling of single-cell RNA-seq in the past decade. Nat Protoc. 2018;13(4):599-604.](https://www.nature.com/articles/nprot.2017.149)
 - [Tanay A, Regev A. Scaling single-cell genomics from phenomenology to mechanism. Nature. 2017;541(7637):331-8.](https://www.nature.com/articles/nature21350)
+- [Luecken MD, Theis FJ. Current best practices in single-cell RNA-seq analysis: a tutorial. Mol Syst Biol. 2019;15(6):e8746. Published 2019 Jun 19.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6582955/)
 
 ### Research Computing Services Tutorials
 The Research Computing Services (RCS) group, part of Boston University Information Services & Technology, offers a series of tutorials on **programming**, **high performance computing**, and **scientific visualization**. These tutorials are free and open to all members of the Boston University community.
