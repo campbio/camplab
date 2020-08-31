@@ -51,6 +51,7 @@ Send an email to Josh be added to these lists
 ### Single Cell Data Analysis Tutorials:
 - Analysis of single cell RNA-seq data: https://scrnaseq-course.cog.sanger.ac.uk/website/index.html
 - Orchestrating Single-Cell Analysis with Bioconductor: https://osca.bioconductor.org/
+- Introduction to single cell RNA-seq analysis: https://hbctraining.github.io/scRNA-seq/lessons/pseudobulk_DESeq2_scrnaseq.html
 ### Reviews:
 #### Single Cell:
 - [Papalexi E, Satija R. Single-cell RNA sequencing to explore immune cell heterogeneity. Nat Rev Immunol. 2018;18(1):35-45.](https://www.nature.com/articles/nri.2017.76)
