@@ -50,14 +50,17 @@ Send an email to Josh be added to these lists
 ## Useful links:
 ### CBM Bootcamp Videos and Slides
 Bootcamp1: Nuts and Bolts of Sequencing
+
 https://echo360.org/media/b5c27b50-965c-4b78-bb1c-7ceb46e16351/public
 https://www.dropbox.com/s/67tnpire1hcqqpy/20161130_Sequencing_Bootcamp_Session1.pptx?dl=0
 
 Bootcamp2: RNA-seq analysis
+
 https://echo360.org/media/ff432a03-11a5-4501-adc3-947370c8f17e/public
 https://www.dropbox.com/s/2jfci3wwtim1k6v/20161207_Sequencing_Bootcamp_Session2.pptx?dl=0
 
 Bootcamp3: DNA-seq / cancer genome analysis
+
 https://echo360.org/media/37f30058-7631-4985-8d0a-1ba9301c78b0/public
 https://www.dropbox.com/s/n8qse44negjttq4/20161214_Sequencing_Bootcamp_Session3.pptx?dl=0
 
